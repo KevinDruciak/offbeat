@@ -1,5 +1,8 @@
 # offbeat
 
+update: 9/28/20
+I am aware that this is poor code. It was my first time using any sort of graphics library to create a "complex" game. I have since matured in skill; however, I still like the end product even with its limitations. I intend on reworking the entire game with more advanced functionality in the near future.
+
 offbeat
 
 Author: Kevin Druciak
