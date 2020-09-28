@@ -13,9 +13,7 @@ Current implemented gamemodes include 4-key mania and standard osu. Beatmaps are
 Currently looking into better methods of coding a rhythm game.
 I am leaning towards coding it in C# or learning C# and Unity should I have to. 
 
-```
-![offbeat](./ex/offbeat.gif)
-```
+![offbeat](./src/ex/offbeat.gif)
 
 ## TODO
 
